@@ -5,15 +5,16 @@ body{
     display: grid;
     grid-gap: 15px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 100px 500px 300px 60px;
+    grid-template-rows: 100px 400px 250px 50px;
 }
 a{
     text-decoration: none; 
     color: black;
-}
+}   
 ul{
-    list-style-type: none;
     margin: 0px;
+    padding: 0px;
+    list-style-type: none;
     display: grid;
     height: 60px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
